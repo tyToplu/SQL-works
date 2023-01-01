@@ -26,3 +26,6 @@ BY replacement_cost HAVING COUNT(*) > 50;
 SELECT store_id , COUNT(*) FROM customer GROUP BY store_id;
 --4--
 ???
+
+ODEV 8
+
